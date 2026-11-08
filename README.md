@@ -52,8 +52,8 @@ A interface web utiliza Vue 3 e possui recursos de PWA. As capacidades de cada m
 ### Instalação
 
 ```bash
-git clone https://github.com/WallacyBR/condoai.git
-cd condoai
+git clone https://github.com/WallacyBR/predihub.git
+cd predihub
 composer install
 npm ci
 cp .env.example .env
